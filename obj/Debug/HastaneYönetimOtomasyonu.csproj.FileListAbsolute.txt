@@ -1,0 +1,112 @@
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe.config
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.pdb
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.Properties.Resources.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.exe
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.pdb
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaKayıt.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.GirisFormu.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaGirisi.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorDetay.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorGiris.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaDetay.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmBrans.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorDuzenle.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorİslemleri.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDuyurular.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmRandevuListesi.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmAsistanDetay.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmAsistanGiris.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmYetkili.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmBilgiDuzenle.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe.config
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe.manifest
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.application
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmBilgiDuzenle.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmBrans.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorDetay.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorDuzenle.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorGiris.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorİslemleri.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDuyurular.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaDetay.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaKayıt.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmRandevuListesi.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmAsistanDetay.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmAsistanGiris.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmYetkili.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.GirisFormu.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaGirisi.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.Properties.Resources.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.exe.manifest
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.application
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.exe
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.pdb
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.pdb
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe.manifest
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.application
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.exe.manifest
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.application
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe.config
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe.manifest
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.application
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.pdb
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmBilgiDuzenle.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmBrans.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorDetay.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorDuzenle.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorGiris.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorİslemleri.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDuyurular.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaDetay.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaKayıt.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmRandevuListesi.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmAsistanDetay.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmAsistanGiris.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmYetkili.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.GirisFormu.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaGirisi.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.Properties.Resources.resources
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.exe.manifest
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.application
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.exe
+C:\Users\user\Desktop\Hastane Yönetim Otomasyonu - Kopya (6)\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.pdb
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe.config
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe.manifest
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.application
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.exe
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\bin\Debug\HastaneYönetimOtomasyonu.pdb
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmBilgiDuzenle.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmBrans.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorDetay.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorDuzenle.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorGiris.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDoktorİslemleri.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmDuyurular.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaDetay.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaKayıt.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmRandevuListesi.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmAsistanDetay.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmAsistanGiris.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmYetkili.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.GirisFormu.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.FrmHastaGirisi.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.Properties.Resources.resources
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.exe.manifest
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.application
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.exe
+C:\Users\user\Desktop\220542018_İsmail_Mete_Karasubaşı_Hastane_Otomasyonu\Proje Dosyası\HastaneYönetimOtomasyonu\obj\Debug\HastaneYönetimOtomasyonu.pdb
